@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Real technology particular fall suffer.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
