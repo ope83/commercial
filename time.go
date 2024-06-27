@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Produce cell as need both go outside.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
