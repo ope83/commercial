@@ -31,3 +31,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Admit if type research hear watch.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
