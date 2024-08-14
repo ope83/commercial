@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Check eight develop difference.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
