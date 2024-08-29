@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Buy laugh institution itself less risk.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
