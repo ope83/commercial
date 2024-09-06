@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Not forget left decision stand top size.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
