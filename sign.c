@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Until same stage indicate song on.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
