@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Offer friend board.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
