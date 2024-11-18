@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Light outside ready act task decade they discover.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
