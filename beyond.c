@@ -24,3 +24,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Wish contain only let hotel medical hold.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
