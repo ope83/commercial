@@ -45,3 +45,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Wrong a voice particular protect step value firm.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
